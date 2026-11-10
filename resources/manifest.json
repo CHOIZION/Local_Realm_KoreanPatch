@@ -1,0 +1,208 @@
+{
+  "sha256": "d0bcd19676e59a4febf05daf2089b10cc405bb10a14696c2c12bd63d92aa3484",
+  "base": 5368709120,
+  "pe": 240,
+  "opt": 264,
+  "sections": [
+    {
+      "name": ".text",
+      "vs": 13789936,
+      "rva": 4096,
+      "size": 13790208,
+      "raw": 1024
+    },
+    {
+      "name": ".rdata",
+      "vs": 20208708,
+      "rva": 13795328,
+      "size": 20209152,
+      "raw": 13791232
+    },
+    {
+      "name": ".data",
+      "vs": 145232,
+      "rva": 34004992,
+      "size": 133120,
+      "raw": 34000384
+    },
+    {
+      "name": ".pdata",
+      "vs": 629556,
+      "rva": 34152448,
+      "size": 629760,
+      "raw": 34133504
+    },
+    {
+      "name": ".rsrc",
+      "vs": 23200,
+      "rva": 34783232,
+      "size": 23552,
+      "raw": 34763264
+    },
+    {
+      "name": ".reloc",
+      "vs": 48008,
+      "rva": 34807808,
+      "size": 48128,
+      "raw": 34786816
+    }
+  ],
+  "assets": [
+    {
+      "name": "/_app/immutable/assets/Map3D.BoP7CJde.css",
+      "entry": 14620600,
+      "offset": 13795225,
+      "length": 281,
+      "size": 643
+    },
+    {
+      "name": "/_app/immutable/assets/Portrait.DmsZlUUy.css",
+      "entry": 14620632,
+      "offset": 13795550,
+      "length": 89,
+      "size": 145
+    },
+    {
+      "name": "/_app/immutable/chunks/DPZ_r-_z.js",
+      "entry": 14620664,
+      "offset": 13795673,
+      "length": 235,
+      "size": 372
+    },
+    {
+      "name": "/_app/immutable/chunks/wbPk3Yxo.js",
+      "entry": 14620696,
+      "offset": 13795942,
+      "length": 557,
+      "size": 1368
+    },
+    {
+      "name": "/_app/immutable/chunks/CAtGDqPC.js",
+      "entry": 14620760,
+      "offset": 13846831,
+      "length": 50757,
+      "size": 187602
+    },
+    {
+      "name": "/_app/immutable/nodes/1.BxBGcWXm.js",
+      "entry": 14620792,
+      "offset": 13897623,
+      "length": 259,
+      "size": 430
+    },
+    {
+      "name": "/_app/immutable/assets/0.FcAO0f64.css",
+      "entry": 14620824,
+      "offset": 13897919,
+      "length": 2408,
+      "size": 8448
+    },
+    {
+      "name": "/_app/immutable/nodes/0.DREjxqjj.js",
+      "entry": 14620856,
+      "offset": 13900362,
+      "length": 3513,
+      "size": 9111
+    },
+    {
+      "name": "/_app/immutable/chunks/CI_lQJxj.js",
+      "entry": 14620888,
+      "offset": 13903909,
+      "length": 132031,
+      "size": 573066
+    },
+    {
+      "name": "/_app/immutable/chunks/BF7HkLHx.js",
+      "entry": 14620920,
+      "offset": 14035974,
+      "length": 232,
+      "size": 369
+    },
+    {
+      "name": "/_app/immutable/entry/start.oSpPAn15.js",
+      "entry": 14620952,
+      "offset": 14036245,
+      "length": 8283,
+      "size": 21859
+    },
+    {
+      "name": "/_app/immutable/chunks/TmZhAqyv.js",
+      "entry": 14620984,
+      "offset": 14044562,
+      "length": 508429,
+      "size": 1703098
+    },
+    {
+      "name": "/_app/immutable/chunks/CsQZL2yZ.js",
+      "entry": 14621016,
+      "offset": 14553025,
+      "length": 3711,
+      "size": 8425
+    },
+    {
+      "name": "/_app/immutable/chunks/DmKQ6Wvf.js",
+      "entry": 14621048,
+      "offset": 14556770,
+      "length": 10146,
+      "size": 27029
+    },
+    {
+      "name": "/_app/immutable/chunks/CRlCFafd.js",
+      "entry": 14621080,
+      "offset": 14566950,
+      "length": 2661,
+      "size": 6124
+    },
+    {
+      "name": "/index.html",
+      "entry": 14621112,
+      "offset": 14569622,
+      "length": 475,
+      "size": 1505
+    },
+    {
+      "name": "/_app/immutable/chunks/ByZPsUGd.js",
+      "entry": 14621144,
+      "offset": 14570131,
+      "length": 2033,
+      "size": 4460
+    },
+    {
+      "name": "/_app/immutable/nodes/2.DasdoyHn.js",
+      "entry": 14621208,
+      "offset": 14597405,
+      "length": 70,
+      "size": 66
+    },
+    {
+      "name": "/_app/immutable/entry/app.DriD-_MD.js",
+      "entry": 14621272,
+      "offset": 14597558,
+      "length": 1850,
+      "size": 4266
+    },
+    {
+      "name": "/_app/immutable/assets/2.D_sqbs_T.css",
+      "entry": 14621304,
+      "offset": 14599445,
+      "length": 21155,
+      "size": 115448
+    }
+  ],
+  "original_size": 34834944,
+  "original_header": "TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1vZGUuDQ0KJAAAAAAAAABi9sbTJpeogCaXqIAml6iAL+87gDSXqIA2E6uBLJeogDYTrIEpl6iANhOtgQmXqIBuEqyBJ5eogCaXqYDFlqiAJpeogMOVqIBuEleAJ5eogG4SqoEnl6iAUmljaCaXqIAAAAAAAAAAAAAAAAAAAAAAUEUAAGSGBgCiDvJqAAAAAAAAAADwACIACwIOKQBs0gAASkEBAAAAAEB1zwAAEAAAAAAAQAEAAAAAEAAAAAIAAAYAAAAAAAAABgAAAAAAAAAA4BMCAAQAAAAAAAACAGCBAAAQAAAAAAAAEAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA9K8GAswBAAAAwBICoFoAAAAgCQI0mwkAAAAAAAAAAAAAIBMCiLsAAFDy4QFUAAAAAAAAAAAAAAAAAAAAAAAAAID04QEoAAAAEPHhAUABAAAAAAAAAAAAAACA0gDIDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALnRleHQAAADwatIAABAAAABs0gAABAAAAAAAAAAAAAAAAAAAIAAAYC5yZGF0YQAARFw0AQCA0gAAXjQBAHDSAAAAAAAAAAAAAAAAAEAAAEAuZGF0YQAAAFA3AgAA4AYCAAgCAADOBgIAAAAAAAAAAAAAAABAAADALnBkYXRhAAA0mwkAACAJAgCcCQAA1ggCAAAAAAAAAAAAAAAAQAAAQC5yc3JjAAAAoFoAAADAEgIAXAAAAHISAgAAAAAAAAAAAAAAAEAAAEAucmVsb2MAAIi7AAAAIBMCALwAAADOEgIAAAAAAAAAAAAAAABAAABCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+  "original_slices": [
+    {
+      "offset": 14620776,
+      "bytes": "L1nTQAEAAABFxgAAAAAAAA=="
+    },
+    {
+      "offset": 14620840,
+      "bytes": "vyDUQAEAAABoCQAAAAAAAA=="
+    },
+    {
+      "offset": 14621000,
+      "bytes": "kl3WQAEAAAANwgcAAAAAAA=="
+    }
+  ]
+}

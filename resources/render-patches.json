@@ -1,0 +1,1406 @@
+[
+  {
+    "start": 1701485,
+    "end": 1701502,
+    "before": "l(a).action.label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a).action,\"label\")"
+  },
+  {
+    "start": 1698952,
+    "end": 1698962,
+    "before": "l(at).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(at),\"name\")"
+  },
+  {
+    "start": 1694294,
+    "end": 1694307,
+    "before": "W.world?.name",
+    "after": "globalThis.__localRealmKoreanQA.display(W.world,\"name\")"
+  },
+  {
+    "start": 1689425,
+    "end": 1689435,
+    "before": "l(a).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"title\")"
+  },
+  {
+    "start": 1688872,
+    "end": 1688882,
+    "before": "l(F).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(F),\"title\")"
+  },
+  {
+    "start": 1678918,
+    "end": 1678928,
+    "before": "l(dt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(dt),\"name\")"
+  },
+  {
+    "start": 1676889,
+    "end": 1676900,
+    "before": "l(Tt).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Tt),\"label\")"
+  },
+  {
+    "start": 1676606,
+    "end": 1676617,
+    "before": "l(Be).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Be),\"label\")"
+  },
+  {
+    "start": 1675054,
+    "end": 1675064,
+    "before": "l(bt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(bt),\"name\")"
+  },
+  {
+    "start": 1672224,
+    "end": 1672234,
+    "before": "l(Je).hint",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Je),\"hint\")"
+  },
+  {
+    "start": 1672195,
+    "end": 1672205,
+    "before": "l(Je).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Je),\"name\")"
+  },
+  {
+    "start": 1664663,
+    "end": 1664673,
+    "before": "l(nt).hint",
+    "after": "globalThis.__localRealmKoreanQA.display(l(nt),\"hint\")"
+  },
+  {
+    "start": 1664645,
+    "end": 1664656,
+    "before": "l(nt).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(nt),\"label\")"
+  },
+  {
+    "start": 1664325,
+    "end": 1664336,
+    "before": "l(nt).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(nt),\"label\")"
+  },
+  {
+    "start": 1662146,
+    "end": 1662157,
+    "before": "l(it).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(it),\"label\")"
+  },
+  {
+    "start": 1661836,
+    "end": 1661846,
+    "before": "l(nt).hint",
+    "after": "globalThis.__localRealmKoreanQA.display(l(nt),\"hint\")"
+  },
+  {
+    "start": 1661817,
+    "end": 1661828,
+    "before": "l(nt).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(nt),\"label\")"
+  },
+  {
+    "start": 1661799,
+    "end": 1661809,
+    "before": "l(nt).hint",
+    "after": "globalThis.__localRealmKoreanQA.display(l(nt),\"hint\")"
+  },
+  {
+    "start": 1656154,
+    "end": 1656163,
+    "before": "l(R).hint",
+    "after": "globalThis.__localRealmKoreanQA.display(l(R),\"hint\")"
+  },
+  {
+    "start": 1656138,
+    "end": 1656148,
+    "before": "l(R).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(R),\"title\")"
+  },
+  {
+    "start": 1651827,
+    "end": 1651833,
+    "before": "R.name",
+    "after": "globalThis.__localRealmKoreanQA.display(R,\"name\")"
+  },
+  {
+    "start": 1651742,
+    "end": 1651748,
+    "before": "R.name",
+    "after": "globalThis.__localRealmKoreanQA.display(R,\"name\")"
+  },
+  {
+    "start": 1649009,
+    "end": 1649023,
+    "before": "l(a).type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"type_name\")"
+  },
+  {
+    "start": 1647415,
+    "end": 1647426,
+    "before": "l(qt).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(qt),\"title\")"
+  },
+  {
+    "start": 1645373,
+    "end": 1645383,
+    "before": "l(h).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(h),\"label\")"
+  },
+  {
+    "start": 1645355,
+    "end": 1645367,
+    "before": "l(u)[0].name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(u)[0],\"name\")"
+  },
+  {
+    "start": 1645343,
+    "end": 1645352,
+    "before": "l(a).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"name\")"
+  },
+  {
+    "start": 1645272,
+    "end": 1645282,
+    "before": "l(h).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(h),\"label\")"
+  },
+  {
+    "start": 1645254,
+    "end": 1645266,
+    "before": "l(u)[0].name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(u)[0],\"name\")"
+  },
+  {
+    "start": 1645242,
+    "end": 1645251,
+    "before": "l(a).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"name\")"
+  },
+  {
+    "start": 1643881,
+    "end": 1643897,
+    "before": "l(qt).other.name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(qt).other,\"name\")"
+  },
+  {
+    "start": 1643863,
+    "end": 1643874,
+    "before": "l(qt).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(qt),\"label\")"
+  },
+  {
+    "start": 1642559,
+    "end": 1642570,
+    "before": "l(je).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(je),\"label\")"
+  },
+  {
+    "start": 1642292,
+    "end": 1642306,
+    "before": "l(a).type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"type_name\")"
+  },
+  {
+    "start": 1635360,
+    "end": 1635371,
+    "before": "l(_e).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(_e),\"label\")"
+  },
+  {
+    "start": 1631817,
+    "end": 1631833,
+    "before": "e.property.label",
+    "after": "globalThis.__localRealmKoreanQA.display(e.property,\"label\")"
+  },
+  {
+    "start": 1631724,
+    "end": 1631739,
+    "before": "e.property.hint",
+    "after": "globalThis.__localRealmKoreanQA.display(e.property,\"hint\")"
+  },
+  {
+    "start": 1616194,
+    "end": 1616227,
+    "before": "f.find(Lt=>Lt.value===l(o))?.hint",
+    "after": "globalThis.__localRealmKoreanQA.display(f.find(Lt=>Lt.value===l(o)),\"hint\")"
+  },
+  {
+    "start": 1615288,
+    "end": 1615297,
+    "before": "l(t).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(t),\"name\")"
+  },
+  {
+    "start": 1614383,
+    "end": 1614393,
+    "before": "l(or).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(or),\"name\")"
+  },
+  {
+    "start": 1613419,
+    "end": 1613429,
+    "before": "l(or).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(or),\"name\")"
+  },
+  {
+    "start": 1612697,
+    "end": 1612707,
+    "before": "l(Wt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Wt),\"name\")"
+  },
+  {
+    "start": 1611951,
+    "end": 1611962,
+    "before": "l($e).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l($e),\"title\")"
+  },
+  {
+    "start": 1611358,
+    "end": 1611368,
+    "before": "l(si).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(si),\"name\")"
+  },
+  {
+    "start": 1608298,
+    "end": 1608331,
+    "before": "m.find(Cr=>Cr.value===l(_))?.hint",
+    "after": "globalThis.__localRealmKoreanQA.display(m.find(Cr=>Cr.value===l(_)),\"hint\")"
+  },
+  {
+    "start": 1608054,
+    "end": 1608065,
+    "before": "l(Hr).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Hr),\"label\")"
+  },
+  {
+    "start": 1607895,
+    "end": 1607906,
+    "before": "l(Vt).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Vt),\"label\")"
+  },
+  {
+    "start": 1606437,
+    "end": 1606446,
+    "before": "l(t).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(t),\"name\")"
+  },
+  {
+    "start": 1605102,
+    "end": 1605110,
+    "before": "re.title",
+    "after": "globalThis.__localRealmKoreanQA.display(re,\"title\")"
+  },
+  {
+    "start": 1595114,
+    "end": 1595131,
+    "before": "e.manuscript.name",
+    "after": "globalThis.__localRealmKoreanQA.display(e.manuscript,\"name\")"
+  },
+  {
+    "start": 1585500,
+    "end": 1585511,
+    "before": "l(_e).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(_e),\"label\")"
+  },
+  {
+    "start": 1585089,
+    "end": 1585099,
+    "before": "l(a).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"title\")"
+  },
+  {
+    "start": 1582204,
+    "end": 1582213,
+    "before": "l(n).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(n),\"name\")"
+  },
+  {
+    "start": 1581228,
+    "end": 1581239,
+    "before": "l(ht).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(ht),\"label\")"
+  },
+  {
+    "start": 1580976,
+    "end": 1580987,
+    "before": "l(ht).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(ht),\"label\")"
+  },
+  {
+    "start": 1580434,
+    "end": 1580445,
+    "before": "l($t).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l($t),\"label\")"
+  },
+  {
+    "start": 1580156,
+    "end": 1580167,
+    "before": "l($t).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l($t),\"label\")"
+  },
+  {
+    "start": 1579648,
+    "end": 1579658,
+    "before": "l(Ue).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Ue),\"name\")"
+  },
+  {
+    "start": 1579634,
+    "end": 1579646,
+    "before": "l(Ue).plural",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Ue),\"plural\")"
+  },
+  {
+    "start": 1579301,
+    "end": 1579310,
+    "before": "l(n).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(n),\"name\")"
+  },
+  {
+    "start": 1575180,
+    "end": 1575190,
+    "before": "l(se).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(se),\"name\")"
+  },
+  {
+    "start": 1574926,
+    "end": 1574935,
+    "before": "l(C).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(C),\"name\")"
+  },
+  {
+    "start": 1574630,
+    "end": 1574640,
+    "before": "l(_).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(_),\"label\")"
+  },
+  {
+    "start": 1574368,
+    "end": 1574378,
+    "before": "l(_).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(_),\"label\")"
+  },
+  {
+    "start": 1571456,
+    "end": 1571465,
+    "before": "l(c).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(c),\"name\")"
+  },
+  {
+    "start": 1571435,
+    "end": 1571449,
+    "before": "l(c).type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(c),\"type_name\")"
+  },
+  {
+    "start": 1570153,
+    "end": 1570163,
+    "before": "l(Dt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Dt),\"name\")"
+  },
+  {
+    "start": 1569411,
+    "end": 1569422,
+    "before": "l(bt).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(bt),\"label\")"
+  },
+  {
+    "start": 1568902,
+    "end": 1568913,
+    "before": "l(Ne).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Ne),\"label\")"
+  },
+  {
+    "start": 1567896,
+    "end": 1567905,
+    "before": "l(t).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(t),\"name\")"
+  },
+  {
+    "start": 1554168,
+    "end": 1554177,
+    "before": "l(B).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(B),\"name\")"
+  },
+  {
+    "start": 1554147,
+    "end": 1554161,
+    "before": "l(B).type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(B),\"type_name\")"
+  },
+  {
+    "start": 1552821,
+    "end": 1552831,
+    "before": "l(be).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(be),\"name\")"
+  },
+  {
+    "start": 1552807,
+    "end": 1552819,
+    "before": "l(be).plural",
+    "after": "globalThis.__localRealmKoreanQA.display(l(be),\"plural\")"
+  },
+  {
+    "start": 1551161,
+    "end": 1551172,
+    "before": "l(be).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(be),\"label\")"
+  },
+  {
+    "start": 1550597,
+    "end": 1550606,
+    "before": "l(E).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(E),\"name\")"
+  },
+  {
+    "start": 1079114,
+    "end": 1079132,
+    "before": "l(t).calendar.name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(t).calendar,\"name\")"
+  },
+  {
+    "start": 1079075,
+    "end": 1079084,
+    "before": "l(t).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(t),\"name\")"
+  },
+  {
+    "start": 1078853,
+    "end": 1078863,
+    "before": "l(i).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(i),\"title\")"
+  },
+  {
+    "start": 1078220,
+    "end": 1078230,
+    "before": "l(At).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(At),\"name\")"
+  },
+  {
+    "start": 1078198,
+    "end": 1078213,
+    "before": "l(At).type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(At),\"type_name\")"
+  },
+  {
+    "start": 1077876,
+    "end": 1077887,
+    "before": "l(it).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(it),\"title\")"
+  },
+  {
+    "start": 1077524,
+    "end": 1077541,
+    "before": "l(it).place.label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(it).place,\"label\")"
+  },
+  {
+    "start": 1072340,
+    "end": 1072350,
+    "before": "l(Gt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Gt),\"name\")"
+  },
+  {
+    "start": 1071366,
+    "end": 1071376,
+    "before": "l(it).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(it),\"name\")"
+  },
+  {
+    "start": 1070101,
+    "end": 1070110,
+    "before": "l(t).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(t),\"name\")"
+  },
+  {
+    "start": 1069903,
+    "end": 1069911,
+    "before": "ne.title",
+    "after": "globalThis.__localRealmKoreanQA.display(ne,\"title\")"
+  },
+  {
+    "start": 1062637,
+    "end": 1062647,
+    "before": "de().title",
+    "after": "globalThis.__localRealmKoreanQA.display(de(),\"title\")"
+  },
+  {
+    "start": 1062524,
+    "end": 1062534,
+    "before": "de().title",
+    "after": "globalThis.__localRealmKoreanQA.display(de(),\"title\")"
+  },
+  {
+    "start": 1062466,
+    "end": 1062476,
+    "before": "de().title",
+    "after": "globalThis.__localRealmKoreanQA.display(de(),\"title\")"
+  },
+  {
+    "start": 1061642,
+    "end": 1061652,
+    "before": "l(Y).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Y),\"title\")"
+  },
+  {
+    "start": 1061544,
+    "end": 1061554,
+    "before": "l(Y).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Y),\"title\")"
+  },
+  {
+    "start": 1061486,
+    "end": 1061496,
+    "before": "l(Y).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Y),\"title\")"
+  },
+  {
+    "start": 1061099,
+    "end": 1061108,
+    "before": "l(X).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(X),\"name\")"
+  },
+  {
+    "start": 1054892,
+    "end": 1054902,
+    "before": "l(Zt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Zt),\"name\")"
+  },
+  {
+    "start": 1053466,
+    "end": 1053481,
+    "before": "e.timeline.name",
+    "after": "globalThis.__localRealmKoreanQA.display(e.timeline,\"name\")"
+  },
+  {
+    "start": 1052514,
+    "end": 1052524,
+    "before": "l(Re).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Re),\"name\")"
+  },
+  {
+    "start": 1050849,
+    "end": 1050858,
+    "before": "l(a).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"name\")"
+  },
+  {
+    "start": 1050824,
+    "end": 1050839,
+    "before": "e.timeline.name",
+    "after": "globalThis.__localRealmKoreanQA.display(e.timeline,\"name\")"
+  },
+  {
+    "start": 1050799,
+    "end": 1050814,
+    "before": "e.calendar.name",
+    "after": "globalThis.__localRealmKoreanQA.display(e.calendar,\"name\")"
+  },
+  {
+    "start": 1050540,
+    "end": 1050555,
+    "before": "e.timeline.name",
+    "after": "globalThis.__localRealmKoreanQA.display(e.timeline,\"name\")"
+  },
+  {
+    "start": 1050294,
+    "end": 1050309,
+    "before": "e.timeline.name",
+    "after": "globalThis.__localRealmKoreanQA.display(e.timeline,\"name\")"
+  },
+  {
+    "start": 1050047,
+    "end": 1050054,
+    "before": "Et.name",
+    "after": "globalThis.__localRealmKoreanQA.display(Et,\"name\")"
+  },
+  {
+    "start": 1050022,
+    "end": 1050037,
+    "before": "e.timeline.name",
+    "after": "globalThis.__localRealmKoreanQA.display(e.timeline,\"name\")"
+  },
+  {
+    "start": 1046232,
+    "end": 1046242,
+    "before": "l(X).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(X),\"title\")"
+  },
+  {
+    "start": 1045280,
+    "end": 1045296,
+    "before": "l(X).event.title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(X).event,\"title\")"
+  },
+  {
+    "start": 1044800,
+    "end": 1044810,
+    "before": "l(X).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(X),\"label\")"
+  },
+  {
+    "start": 1044265,
+    "end": 1044279,
+    "before": "l(X).band.name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(X).band,\"name\")"
+  },
+  {
+    "start": 1044234,
+    "end": 1044248,
+    "before": "l(X).band.name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(X).band,\"name\")"
+  },
+  {
+    "start": 1039801,
+    "end": 1039810,
+    "before": "l(s).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(s),\"name\")"
+  },
+  {
+    "start": 1038405,
+    "end": 1038415,
+    "before": "l(nr).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(nr),\"name\")"
+  },
+  {
+    "start": 1037056,
+    "end": 1037067,
+    "before": "l(Sr).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Sr),\"label\")"
+  },
+  {
+    "start": 1036391,
+    "end": 1036401,
+    "before": "l(Qt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Qt),\"name\")"
+  },
+  {
+    "start": 1035556,
+    "end": 1035566,
+    "before": "l(Qt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Qt),\"name\")"
+  },
+  {
+    "start": 1035100,
+    "end": 1035110,
+    "before": "l(Qt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Qt),\"name\")"
+  },
+  {
+    "start": 1033838,
+    "end": 1033848,
+    "before": "l(zt).hint",
+    "after": "globalThis.__localRealmKoreanQA.display(l(zt),\"hint\")"
+  },
+  {
+    "start": 1033262,
+    "end": 1033270,
+    "before": "Gn.label",
+    "after": "globalThis.__localRealmKoreanQA.display(Gn,\"label\")"
+  },
+  {
+    "start": 1031881,
+    "end": 1031891,
+    "before": "l(li).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(li),\"name\")"
+  },
+  {
+    "start": 1029866,
+    "end": 1029877,
+    "before": "l(xn).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(xn),\"label\")"
+  },
+  {
+    "start": 1029241,
+    "end": 1029251,
+    "before": "l(xn).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(xn),\"name\")"
+  },
+  {
+    "start": 1029131,
+    "end": 1029141,
+    "before": "l(xn).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(xn),\"name\")"
+  },
+  {
+    "start": 1027907,
+    "end": 1027918,
+    "before": "l(Br).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Br),\"title\")"
+  },
+  {
+    "start": 1027478,
+    "end": 1027488,
+    "before": "l(f).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(f),\"label\")"
+  },
+  {
+    "start": 1027193,
+    "end": 1027204,
+    "before": "l(Br).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Br),\"title\")"
+  },
+  {
+    "start": 1021986,
+    "end": 1021996,
+    "before": "l(v).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(v),\"label\")"
+  },
+  {
+    "start": 1021950,
+    "end": 1021960,
+    "before": "l(v).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(v),\"label\")"
+  },
+  {
+    "start": 1018381,
+    "end": 1018391,
+    "before": "l(f).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(f),\"label\")"
+  },
+  {
+    "start": 1018345,
+    "end": 1018355,
+    "before": "l(f).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(f),\"label\")"
+  },
+  {
+    "start": 1003742,
+    "end": 1003753,
+    "before": "l(yn).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(yn),\"label\")"
+  },
+  {
+    "start": 1003671,
+    "end": 1003682,
+    "before": "l(yn).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(yn),\"label\")"
+  },
+  {
+    "start": 1002959,
+    "end": 1002975,
+    "before": "l(Sr).brush.name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Sr).brush,\"name\")"
+  },
+  {
+    "start": 1002887,
+    "end": 1002903,
+    "before": "l(Sr).brush.name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Sr).brush,\"name\")"
+  },
+  {
+    "start": 1002645,
+    "end": 1002661,
+    "before": "l(Sr).brush.name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Sr).brush,\"name\")"
+  },
+  {
+    "start": 1001942,
+    "end": 1001959,
+    "before": "l(Y).source.label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Y).source,\"label\")"
+  },
+  {
+    "start": 1001580,
+    "end": 1001589,
+    "before": "l(s).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(s),\"name\")"
+  },
+  {
+    "start": 983627,
+    "end": 983634,
+    "before": "oe.name",
+    "after": "globalThis.__localRealmKoreanQA.display(oe,\"name\")"
+  },
+  {
+    "start": 983565,
+    "end": 983572,
+    "before": "oe.name",
+    "after": "globalThis.__localRealmKoreanQA.display(oe,\"name\")"
+  },
+  {
+    "start": 962753,
+    "end": 962763,
+    "before": "l(se).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(se),\"name\")"
+  },
+  {
+    "start": 961523,
+    "end": 961533,
+    "before": "l(s).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(s),\"label\")"
+  },
+  {
+    "start": 954191,
+    "end": 954206,
+    "before": "l(se).type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(se),\"type_name\")"
+  },
+  {
+    "start": 954174,
+    "end": 954184,
+    "before": "l(se).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(se),\"name\")"
+  },
+  {
+    "start": 953470,
+    "end": 953479,
+    "before": "l(I).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(I),\"name\")"
+  },
+  {
+    "start": 953368,
+    "end": 953377,
+    "before": "l(I).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(I),\"name\")"
+  },
+  {
+    "start": 757092,
+    "end": 757107,
+    "before": "l(Gt).type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Gt),\"type_name\")"
+  },
+  {
+    "start": 757043,
+    "end": 757053,
+    "before": "l(Gt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Gt),\"name\")"
+  },
+  {
+    "start": 756438,
+    "end": 756449,
+    "before": "l(Gt).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Gt),\"label\")"
+  },
+  {
+    "start": 756287,
+    "end": 756297,
+    "before": "l(Yr).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Yr),\"name\")"
+  },
+  {
+    "start": 755534,
+    "end": 755545,
+    "before": "l(Gt).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Gt),\"label\")"
+  },
+  {
+    "start": 755316,
+    "end": 755326,
+    "before": "l(Yr).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Yr),\"name\")"
+  },
+  {
+    "start": 754435,
+    "end": 754445,
+    "before": "l(Gt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Gt),\"name\")"
+  },
+  {
+    "start": 754064,
+    "end": 754074,
+    "before": "l(Gt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Gt),\"name\")"
+  },
+  {
+    "start": 752914,
+    "end": 752925,
+    "before": "l(Pt).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Pt),\"label\")"
+  },
+  {
+    "start": 752601,
+    "end": 752612,
+    "before": "l(Re).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Re),\"title\")"
+  },
+  {
+    "start": 751962,
+    "end": 751969,
+    "before": "pe.name",
+    "after": "globalThis.__localRealmKoreanQA.display(pe,\"name\")"
+  },
+  {
+    "start": 749586,
+    "end": 749598,
+    "before": "pe.type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(pe,\"type_name\")"
+  },
+  {
+    "start": 742023,
+    "end": 742037,
+    "before": "l(A).type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(A),\"type_name\")"
+  },
+  {
+    "start": 742007,
+    "end": 742017,
+    "before": "l(A).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(A),\"title\")"
+  },
+  {
+    "start": 741492,
+    "end": 741501,
+    "before": "l(A).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(A),\"name\")"
+  },
+  {
+    "start": 741336,
+    "end": 741347,
+    "before": "l(A).plural",
+    "after": "globalThis.__localRealmKoreanQA.display(l(A),\"plural\")"
+  },
+  {
+    "start": 732056,
+    "end": 732065,
+    "before": "l(a).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"name\")"
+  },
+  {
+    "start": 732043,
+    "end": 732054,
+    "before": "l(a).plural",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"plural\")"
+  },
+  {
+    "start": 731268,
+    "end": 731279,
+    "before": "l(a).plural",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"plural\")"
+  },
+  {
+    "start": 731212,
+    "end": 731228,
+    "before": "l(a).description",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"description\")"
+  },
+  {
+    "start": 731196,
+    "end": 731205,
+    "before": "l(a).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(a),\"name\")"
+  },
+  {
+    "start": 730824,
+    "end": 730834,
+    "before": "l(et).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(et),\"name\")"
+  },
+  {
+    "start": 730474,
+    "end": 730485,
+    "before": "l(Rt).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Rt),\"label\")"
+  },
+  {
+    "start": 729416,
+    "end": 729426,
+    "before": "l(Rt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Rt),\"name\")"
+  },
+  {
+    "start": 729402,
+    "end": 729414,
+    "before": "l(Rt).plural",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Rt),\"plural\")"
+  },
+  {
+    "start": 728920,
+    "end": 728931,
+    "before": "l(et).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(et),\"label\")"
+  },
+  {
+    "start": 728306,
+    "end": 728315,
+    "before": "l(et).key",
+    "after": "globalThis.__localRealmKoreanQA.display(l(et),\"key\")"
+  },
+  {
+    "start": 728279,
+    "end": 728290,
+    "before": "l(et).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(et),\"label\")"
+  },
+  {
+    "start": 726889,
+    "end": 726899,
+    "before": "l(et).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(et),\"name\")"
+  },
+  {
+    "start": 725995,
+    "end": 726002,
+    "before": "$.label",
+    "after": "globalThis.__localRealmKoreanQA.display($,\"label\")"
+  },
+  {
+    "start": 725917,
+    "end": 725924,
+    "before": "$.label",
+    "after": "globalThis.__localRealmKoreanQA.display($,\"label\")"
+  },
+  {
+    "start": 719753,
+    "end": 719763,
+    "before": "l(G).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(G),\"label\")"
+  },
+  {
+    "start": 718612,
+    "end": 718619,
+    "before": "B.label",
+    "after": "globalThis.__localRealmKoreanQA.display(B,\"label\")"
+  },
+  {
+    "start": 712231,
+    "end": 712242,
+    "before": "l(ne).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(ne),\"label\")"
+  },
+  {
+    "start": 711371,
+    "end": 711381,
+    "before": "l(Ue).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Ue),\"name\")"
+  },
+  {
+    "start": 710731,
+    "end": 710740,
+    "before": "ye().name",
+    "after": "globalThis.__localRealmKoreanQA.display(ye(),\"name\")"
+  },
+  {
+    "start": 710363,
+    "end": 710379,
+    "before": "ye().description",
+    "after": "globalThis.__localRealmKoreanQA.display(ye(),\"description\")"
+  },
+  {
+    "start": 709955,
+    "end": 709962,
+    "before": "se.name",
+    "after": "globalThis.__localRealmKoreanQA.display(se,\"name\")"
+  },
+  {
+    "start": 709764,
+    "end": 709772,
+    "before": "se.label",
+    "after": "globalThis.__localRealmKoreanQA.display(se,\"label\")"
+  },
+  {
+    "start": 706611,
+    "end": 706627,
+    "before": "l(n).description",
+    "after": "globalThis.__localRealmKoreanQA.display(l(n),\"description\")"
+  },
+  {
+    "start": 706595,
+    "end": 706604,
+    "before": "l(n).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(n),\"name\")"
+  },
+  {
+    "start": 705639,
+    "end": 705649,
+    "before": "l(dt).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(dt),\"name\")"
+  },
+  {
+    "start": 705617,
+    "end": 705632,
+    "before": "l(dt).type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(dt),\"type_name\")"
+  },
+  {
+    "start": 701325,
+    "end": 701335,
+    "before": "l(t).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(t),\"title\")"
+  },
+  {
+    "start": 700734,
+    "end": 700744,
+    "before": "l(t).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(t),\"title\")"
+  },
+  {
+    "start": 698730,
+    "end": 698739,
+    "before": "l(n).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(n),\"name\")"
+  },
+  {
+    "start": 698212,
+    "end": 698223,
+    "before": "l(re).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(re),\"title\")"
+  },
+  {
+    "start": 697740,
+    "end": 697749,
+    "before": "l(n).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(n),\"name\")"
+  },
+  {
+    "start": 695655,
+    "end": 695664,
+    "before": "l(n).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(n),\"name\")"
+  },
+  {
+    "start": 693496,
+    "end": 693514,
+    "before": "e.detail.type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(e.detail,\"type_name\")"
+  },
+  {
+    "start": 693477,
+    "end": 693490,
+    "before": "e.detail.name",
+    "after": "globalThis.__localRealmKoreanQA.display(e.detail,\"name\")"
+  },
+  {
+    "start": 693141,
+    "end": 693151,
+    "before": "l(ce).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(ce),\"name\")"
+  },
+  {
+    "start": 693075,
+    "end": 693085,
+    "before": "l(ce).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(ce),\"name\")"
+  },
+  {
+    "start": 692638,
+    "end": 692647,
+    "before": "$().label",
+    "after": "globalThis.__localRealmKoreanQA.display($(),\"label\")"
+  },
+  {
+    "start": 691748,
+    "end": 691758,
+    "before": "l(Ce).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Ce),\"name\")"
+  },
+  {
+    "start": 691682,
+    "end": 691692,
+    "before": "l(Ce).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Ce),\"name\")"
+  },
+  {
+    "start": 684622,
+    "end": 684637,
+    "before": "l(ta).type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(ta),\"type_name\")"
+  },
+  {
+    "start": 684605,
+    "end": 684615,
+    "before": "l(ta).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(ta),\"name\")"
+  },
+  {
+    "start": 682769,
+    "end": 682780,
+    "before": "l(Pn).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Pn),\"label\")"
+  },
+  {
+    "start": 682750,
+    "end": 682761,
+    "before": "l(Pn).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Pn),\"label\")"
+  },
+  {
+    "start": 676691,
+    "end": 676702,
+    "before": "l(Fr).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Fr),\"label\")"
+  },
+  {
+    "start": 674652,
+    "end": 674659,
+    "before": "$e.name",
+    "after": "globalThis.__localRealmKoreanQA.display($e,\"name\")"
+  },
+  {
+    "start": 139127,
+    "end": 139143,
+    "before": "l(q).entity.name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(q).entity,\"name\")"
+  },
+  {
+    "start": 138536,
+    "end": 138547,
+    "before": "l(Mr).label",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Mr),\"label\")"
+  },
+  {
+    "start": 137003,
+    "end": 137013,
+    "before": "l($r).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l($r),\"name\")"
+  },
+  {
+    "start": 136464,
+    "end": 136479,
+    "before": "l(De).type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(De),\"type_name\")"
+  },
+  {
+    "start": 136447,
+    "end": 136457,
+    "before": "l(De).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(De),\"name\")"
+  },
+  {
+    "start": 135737,
+    "end": 135747,
+    "before": "l(De).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(De),\"name\")"
+  },
+  {
+    "start": 134914,
+    "end": 134924,
+    "before": "l(De).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(De),\"name\")"
+  },
+  {
+    "start": 134148,
+    "end": 134158,
+    "before": "l(De).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(De),\"name\")"
+  },
+  {
+    "start": 133394,
+    "end": 133405,
+    "before": "l(De).title",
+    "after": "globalThis.__localRealmKoreanQA.display(l(De),\"title\")"
+  },
+  {
+    "start": 132497,
+    "end": 132507,
+    "before": "l(De).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(De),\"name\")"
+  },
+  {
+    "start": 131523,
+    "end": 131532,
+    "before": "De().name",
+    "after": "globalThis.__localRealmKoreanQA.display(De(),\"name\")"
+  },
+  {
+    "start": 131401,
+    "end": 131410,
+    "before": "De().name",
+    "after": "globalThis.__localRealmKoreanQA.display(De(),\"name\")"
+  },
+  {
+    "start": 131388,
+    "end": 131399,
+    "before": "De().plural",
+    "after": "globalThis.__localRealmKoreanQA.display(De(),\"plural\")"
+  },
+  {
+    "start": 130793,
+    "end": 130803,
+    "before": "l(Qe).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Qe),\"name\")"
+  },
+  {
+    "start": 130656,
+    "end": 130666,
+    "before": "l(Qe).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(Qe),\"name\")"
+  },
+  {
+    "start": 129929,
+    "end": 129938,
+    "before": "De().name",
+    "after": "globalThis.__localRealmKoreanQA.display(De(),\"name\")"
+  },
+  {
+    "start": 127542,
+    "end": 127549,
+    "before": "ze.name",
+    "after": "globalThis.__localRealmKoreanQA.display(ze,\"name\")"
+  },
+  {
+    "start": 127522,
+    "end": 127536,
+    "before": "je.entity.name",
+    "after": "globalThis.__localRealmKoreanQA.display(je.entity,\"name\")"
+  },
+  {
+    "start": 126020,
+    "end": 126027,
+    "before": "ze.name",
+    "after": "globalThis.__localRealmKoreanQA.display(ze,\"name\")"
+  },
+  {
+    "start": 125600,
+    "end": 125612,
+    "before": "ze.type_name",
+    "after": "globalThis.__localRealmKoreanQA.display(ze,\"type_name\")"
+  },
+  {
+    "start": 124863,
+    "end": 124870,
+    "before": "je.name",
+    "after": "globalThis.__localRealmKoreanQA.display(je,\"name\")"
+  },
+  {
+    "start": 124852,
+    "end": 124861,
+    "before": "je.plural",
+    "after": "globalThis.__localRealmKoreanQA.display(je,\"plural\")"
+  },
+  {
+    "start": 124694,
+    "end": 124701,
+    "before": "ze.name",
+    "after": "globalThis.__localRealmKoreanQA.display(ze,\"name\")"
+  },
+  {
+    "start": 124630,
+    "end": 124637,
+    "before": "ze.name",
+    "after": "globalThis.__localRealmKoreanQA.display(ze,\"name\")"
+  },
+  {
+    "start": 118075,
+    "end": 118082,
+    "before": "e.title",
+    "after": "globalThis.__localRealmKoreanQA.display(e,\"title\")"
+  },
+  {
+    "start": 39491,
+    "end": 39500,
+    "before": "l(i).name",
+    "after": "globalThis.__localRealmKoreanQA.display(l(i),\"name\")"
+  },
+  {
+    "start": 33772,
+    "end": 33778,
+    "before": "n.name",
+    "after": "globalThis.__localRealmKoreanQA.display(n,\"name\")"
+  },
+  {
+    "start": 33443,
+    "end": 33449,
+    "before": "e.name",
+    "after": "globalThis.__localRealmKoreanQA.display(e,\"name\")"
+  },
+  {
+    "start": 24678,
+    "end": 24685,
+    "before": "r.title",
+    "after": "globalThis.__localRealmKoreanQA.display(r,\"title\")"
+  }
+]
